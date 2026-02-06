@@ -18,7 +18,7 @@ else:
 
 
 
-#👉 isalnum() checks whether a string contains only letters and numbers.
+# isalnum() checks whether a string contains only letters and numbers.
 #ALNUM = ALPHABET + NUMBER
 
 # Letters → a–z, A–Z
